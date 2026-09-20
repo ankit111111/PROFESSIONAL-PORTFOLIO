@@ -1,4 +1,4 @@
-utomotive Product Design • Wiring Harness • E/E Systems
+Automotive Product Design • Wiring Harness • E/E Systems
 Ankit Kumar
 Senior Product Design Engineer at Mercedes-Benz R&D, working across wiring harness development, electrical schematics, power distribution, vehicle integration and engineering problem solving.
 
